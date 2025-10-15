@@ -1,4 +1,4 @@
-# Stochastic Process Simulation & Estimation Report
+# Stochastic Process: Assignment -1
 
 Submitted by: Priyanshu Tripathi  
 Course: Stochastic Process  
