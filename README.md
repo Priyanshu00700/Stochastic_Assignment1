@@ -1,7 +1,7 @@
 # Stochastic Process Simulation & Estimation Report
 
 Submitted by: Priyanshu Tripathi  
-Course: Stochastic Process
+Course: Stochastic Process  
 Roll No.: 23/CS/319
 
 ---
