@@ -1,7 +1,8 @@
 # Stochastic Process Simulation & Estimation Report
 
-Author: Priyanshu Tripathi  
-Course: Stochastic Modeling (Practical Problems Set)
+Submitted by: Priyanshu Tripathi  
+Course: Stochastic Process
+Roll No.: 23/CS/319
 
 ---
 
